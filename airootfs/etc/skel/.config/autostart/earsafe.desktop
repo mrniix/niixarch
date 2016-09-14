@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=nobeep
+Type=Application
+Exec=xset -b
+Terminal=true
+Icon=abrt
+Comment=ears ok
+Comment[en_GB]=ears ok
+NoDisplay=false
+Categories=Utility;

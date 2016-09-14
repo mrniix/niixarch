@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Installer
+Comment=Application Menu
+Exec=sudo xfce4-terminal -e /abif-master/abif
+Icon=/usr/share/icons/Sardi/scalable/apps/ardour.svg
+Type=Application
+Categories=GNOME;GTK;Utility;
+StartupNotify=false
+NoDisplay=false

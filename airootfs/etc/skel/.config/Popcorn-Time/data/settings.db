@@ -1,0 +1,17 @@
+{"key":"disclaimerAccepted","value":1,"_id":"4UCeI9rojDmnPNUS"}
+{"key":"version","value":"0.3.9","_id":"DfOrmvPZqchq47zG"}
+{"key":"ipAddress","value":"192.168.1.35","_id":"IPWMyFvd3q5GpPR1"}
+{"key":"totalDownloaded","value":763227826,"_id":"IyqX3CFvov0NaU4R"}
+{"key":"language","value":"en","_id":"K1stmaHSYzYmurUR"}
+{"key":"arch","value":"x64","_id":"LaeVz7zHJlSE9s70"}
+{"key":"totalUploaded","value":0,"_id":"M6Ylc6HjglwPnYk1"}
+{"key":"lastWatchedTime","value":false,"_id":"TnBhcT4Gm22SXuY0"}
+{"key":"releaseName","value":"There's nothing on TV","_id":"dEKoj50HkR2hgNKR"}
+{"key":"os","value":"linux","_id":"q9up1tAP5ou1aVUJ"}
+{"key":"playerVolume","value":"1.0","_id":"sXRKuTCBmAyjzL6W"}
+{"key":"theme","value":"Official_-_FlaX_theme","_id":"scSVH8IaWJIlJt9u"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.3.9","_id":"DfOrmvPZqchq47zG"}
+{"key":"releaseName","value":"There's nothing on TV","_id":"dEKoj50HkR2hgNKR"}
+{"key":"arch","value":"x64","_id":"LaeVz7zHJlSE9s70"}
+{"key":"os","value":"linux","_id":"q9up1tAP5ou1aVUJ"}

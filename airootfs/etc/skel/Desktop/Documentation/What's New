@@ -1,0 +1,9 @@
+Arch Linux Midfingr Edition
+
+ISO refresh May 2016
+
+- lightdm replaces lxdm (login manager) + settings manager to customize the login screen
+- volumeicon replaces volwheel
+- included the package networkmanager-dispatcher-ntpd; sync time to your location up startup
+- new feature: enable/disable compton; may help with screen tearing
+- removed the pacman-init service (adds 3+ seconds to boot time), thus PACMAN NOT WORKING steps are necessary
